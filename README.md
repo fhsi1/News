@@ -35,15 +35,3 @@
     └── ViewModel
         └── ArticleListModel.swift
 ```
-
-## AppIcon & LaunchScreen
-
-| <img src="https://user-images.githubusercontent.com/47210434/186692115-67f9d884-3261-46ad-8e7c-52b394688695.png" height="100"> | <img src="https://user-images.githubusercontent.com/47210434/186692202-62e7fd07-52c6-40b5-8525-beb2f48b8483.png" height="500"> |
-| :---------: | :----------: |
-
-## Color
-
-| backgroundColor |
-| :----------: |
-| ![Group 11](https://user-images.githubusercontent.com/47210434/186692983-55d366bf-0573-44d4-80d4-a9920141c126.png) |
-
